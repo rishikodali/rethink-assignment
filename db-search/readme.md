@@ -4,7 +4,7 @@
 - Returns the paginated data in descending order of creation
 - By calling the api with every new character through the frontend, the results can be updated
 
-###Limitation
+### Limitations
 
 - Implement more filter options
 - Implement sorting features
